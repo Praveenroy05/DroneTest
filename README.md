@@ -2,7 +2,8 @@
 
 # Project Name
 
-This is a test project and might not be running properly as it has been derived from the image with no proper locators and had just been assumed.
+
+This is a test project and might not be running properly as it has been derived based on the assumption.
 
 ## Installation
 
@@ -12,7 +13,7 @@ This is a test project and might not be running properly as it has been derived 
 git clone https://github.com/Praveenroy05/DroneTest.git
 
 # Change into the project directory
-cd your-project
+cd your-project-name
 
 # Install dependencies
 npm install cypress --save-dev
