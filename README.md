@@ -9,7 +9,7 @@ This is a test project and might not be running properly as it has been derived 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Praveenroy93/DroneTest.git
+git clone https://github.com/Praveenroy05/DroneTest.git
 
 # Change into the project directory
 cd your-project
